@@ -1,5 +1,5 @@
 # 🚀Welcome to my GitHub Profile!
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58F7F5&width=435&lines=Hello!+my+name+is+Azharaul;I'm+a+Student+who+love+programming" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7BF7A0&width=435&lines=Hello!+my+name+is+Azharaul;I'm+a+Student+who+love+programming" alt="Typing SVG" /></a>
 ## About me
 - 🌱 I’m currently learning: `Java`, and `Git`
 - 👀 I’m interested in: BackEnd Developer, and Database Engineer
@@ -16,6 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 
 --->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azharaul&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=azharaul&show_icons=true&theme=dark)
