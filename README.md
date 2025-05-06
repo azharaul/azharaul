@@ -11,7 +11,6 @@
 - 👀 I’m interested in: BackEnd Developer, and Database Engineer
 - 💬 Ask me about whatever it is
 - 😄 Pronouns: Azhar
-- ⚡ Fun fact: I love her
 
 </details>
 
