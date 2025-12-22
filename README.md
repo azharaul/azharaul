@@ -7,8 +7,8 @@
 - there's actually nothing interesting about me
 - What do you expect from me?
 - 🔭 I'm currently working on a very small project
-- 🌱 I’m currently learning: `Java`, and `Git`
-- 👀 I’m interested in: BackEnd Developer, and Database Engineer
+- 🌱 I’m currently learning: `Web Programming`, and `Machine Learning`
+- 👀 I’m interested in: BackEnd Developer, and AI Engineer
 - 💬 Ask me about whatever it is
 - 😄 Pronouns: Azhar
 
