@@ -1,34 +1,36 @@
-# 🚀Welcome to my GitHub Profile!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+welcome+to+my+profile!)](https://git.io/typing-svg)
-## 📖 About me
+<h1 align="center">Hi 👋, I'm Azhar Aulia Priatna</h1>
+<h3 align="center">Programmer | Java Enthusiast | Web Developer</h3>
 
-<details><summary><h2>🤴 Spoiler Me </h2></summary><br/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Java+OOP+%7C+Algorithms+%7C+Web+Dev;Always+Learning+New+Things" />
+</p>
 
-- there's actually nothing interesting about me
-- What do you expect from me?
-- 🔭 I'm currently working on a very small project
-- 🌱 I’m currently learning: `Web Programming`, and `Machine Learning`
-- 👀 I’m interested in: BackEnd Developer, and AI Engineer
-- 💬 Ask me about whatever it is
-- 😄 Pronouns: Azhar
+---
 
-</details>
+## 👨‍💻 About Me
+- 💻 Strong interest in **Java (OOP, Algorithms, JDBC)**
+- 🌐 Experience with **Web Development (PHP, Laravel)**
+- 🎮 Game development using **Roblox Studio**
+- 📚 Interested in **Algorithm Analysis & Data Structures**
 
-<!---
-## About me
-- 📫 How to contact me: click email in profile
-- ⚡ Fun fact: 
-azharaul/azharaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👋 Hi, I’m @azharaul
+---
 
+## 🚀 Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,php,laravel,html,css,js,mysql,git,github,robloxstudio&theme=dark" />
+</p>
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+---
 
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=azharaul&show_icons=true&theme=tokyonight)
 
---->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azharaul&layout=compact)
+## 📈 GitHub Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=azharaul&theme=tokyo-night&hide_border=true)
 
+---
 
+## 🔗 Connect With Me
+- 💼 GitHub: https://github.com/azharaul
+
+⭐ *Code. Learn. Improve.*
